@@ -1,0 +1,1 @@
+## this is a paclet for summoning fragments of prompts into Mathematica. Please see gif demo below
